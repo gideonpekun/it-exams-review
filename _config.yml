@@ -29,7 +29,23 @@ url: "https://gideonpekun.github.io/it-exams-review/" # the base hostname & prot
 twitter_username: gideonpekun
 github_username:  gideonpekun
 
+github: [metadata]
+
+# Adding author field 
+
+author: Gideon Aribike
+
+#Adding Linkedin 
+
+linkedin_username: aribikegideon
+
+# Adding copyright field
+
+#copyright: gideonpekun
+
+
 # Build settings
+#Removed gem based theme for regular theme
 theme: minima
 plugins:
   - jekyll-feed
