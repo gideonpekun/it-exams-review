@@ -39,6 +39,10 @@ author: Gideon Aribike
 
 linkedin_username: aribikegideon
 
+# Adding sitemap plugin
+plugins:
+  - jekyll-sitemap
+
 # Adding copyright field
 
 #copyright: gideonpekun
